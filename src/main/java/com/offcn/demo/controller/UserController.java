@@ -76,10 +76,5 @@ public class UserController {
 
     }
 
-    /***
-    * 新增的分支方法
-    * */
-    public void fenzhi (){
-        System.out.println("新增分支方法");
-    }
+
 }
